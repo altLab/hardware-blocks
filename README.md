@@ -1,14 +1,16 @@
 # hardware-blocks
 Reference pages for bought or built hw parts that can be used to make stuff
 
-#UV Sensors
-- GUVA-S12SD
-- CJMCU-6002
-- SI1145 
-- GY1145
-- VEML6075
-- VEML6070
-- ML8511
-- MP8511
-- UVM-30A
-- G5842 (Hamamatsu)
+# UV Sensors
+
+| LAST UPDATE: 20180626 	|                                                                                 	|                	|           	|            	|                	|                                                                                                                                          	|               	|        	|
+|-----------------------	|---------------------------------------------------------------------------------	|----------------	|-----------	|------------	|----------------	|------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|--------	|
+| SENSOR REF            	| NOTES                                                                           	| INTERFACE      	| PEAK      	| WAVELENGHT 	| DATASHEET      	| REF LINKS                                                                                                                                	| AVG PRICE EUR 	|  W2BUY 	|
+| GUVA-S12SD            	|                                                                                 	| ANALOG VOLTAGE 	| 360       	| 240 - 360  	| link to folder 	| https://www.adafruit.com/product/1918                                                                                                    	| 3             	| ebay   	|
+| CJMCU-6002            	| Same  sensor as S12D with different package                                     	| ANALOG VOLTAGE 	| 360       	| 240 - 360  	| ???            	| https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=CJMCU-6002&_sacat=0&LH_TitleDesc=0&_sop=15&_osacat=0&_odkw=CJMCU-6002  	| 2,5           	| ebay   	|
+| UVM-30A               	| Same sensor as S12D with different package                                      	| ANALOG VOLTAGE 	|           	| 200 - 370  	| link to folder 	|                                                                                                                                          	| 5             	| ebay   	|
+| SI1145                	| Integrated infrared proximity detector adjustable from under 1 cm to over 50 cm 	| I2C            	| 450 / 850 	| 350-1050   	| link to folder 	| https://www.adafruit.com/product/1777 / https://www.allaboutcircuits.com/projects/how-to-perform-uv-monitoring-with-the-adafruit-si1145/ 	| 3,5           	| ebay   	|
+| VEML6075              	|                                                                                 	| I2C            	| 330 / 365 	|            	| link to folder 	|                                                                                                                                          	| 4             	| ebay   	|
+| VEML6070              	|                                                                                 	|                	|           	|            	| link to folder 	|                                                                                                                                          	| 2,5           	| ebay   	|
+| ML8511 (MP8511)       	|                                                                                 	|                	| 365       	|            	| link to folder 	| https://learn.sparkfun.com/tutorials/ml8511-uv-sensor-hookup-guide                                                                       	| 3,5           	| ebay   	|
+| G5842 Hamamatsu       	|                                                                                 	|                	|           	| 260 – 400  	| link to folder 	|                                                                                                                                          	| 18            	| ebay   	|
